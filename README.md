@@ -1,5 +1,8 @@
 # AR-Puzzle
 Puzzle made with C# Unity, in AR mode, You can choose the sizes of puzzle in runtime!
+
+
+
 1 step You need to open clear project in Unity scene.
 2 step You need to add AR Foundation and ARCore XR Plugin packages from Package Manager to your project.
 3 step You need to add AR Session and AR Session Origin on your scene and make AR camera the main.
